@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "es6", 
+      "module": "commonjs", 
+      "outDir": "./dist", 
+      "rootDir": "./", 
+      "strict": true 
+    },
+    "include": ["*.ts"], // incluye todos los archivos .ts en la raíz
+    "exclude": ["node_modules"] // excluye la carpeta node_modules
+  }
+  
